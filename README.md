@@ -24,7 +24,7 @@ Possuo conhecimento satisfatório sobre redes, identificação de problemas, con
    
 - Redes :globe_with_meridians:
 
-   - Mikrotick: Configurar Regras básicas em Mikrotik como por exempo: Redirecionamento de portas, Liberação de Portas, Segmentação de Redes, Bloqueios, ETC.
+   - Mikrotik: Configurar Regras básicas em mikrotik como por exempo: Redirecionamento de portas, Liberação de Portas, Segmentação de Redes, Bloqueios, ETC.
    - Acess Ponts: Configuração de Acess point.
    - Cabeamento de rede: Confecção de cabos de rede para utilização interna.
    - Fluxo: Conhecimento sobre fluxo de redes, Gateways, Rotas, Perda de Pacotes, Latências.
