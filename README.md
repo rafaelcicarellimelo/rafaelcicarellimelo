@@ -7,7 +7,7 @@
 
 
 ### About me
-Me Chamo Rafael, Formado na Fatec Jales no ano de 2021 em Sistemas para Internet, trabalhando atualmente como Gerente de suporte em uma empresa de VOIP.
+Me Chamo Rafael, Formado na Fatec Jales no ano de 2021 em Sistemas para Internet, trabalhando atualmente como Coordenador de Operações em uma empresa voltada a gestão publica.
 
 Tenho passagem básica pelas linguagens e templates mais conhecidos da atualidade, como por exemplo  Python, Java, C, PHP, React, Laravel. Porém o meu foco é PHP!
 Já desenvolvi alguns projetos em PHP, Porem desafios são sempre bem vindos, possuo base para conseguir me adaptar e aprender a fundo outras linguagens.
