@@ -1,52 +1,63 @@
+# 👋 Hi, I'm Rafael Cicarelli Melo
 
-# Hi, I'm Rafael! :D
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rafaelcicarellimelo)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelcicarelli)
+[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rafaelcicarelli.m@hotmail.com)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/rafaelcicarellimelo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/rafaelcicarelli/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/rafaelcicarelli)
+---
 
+### 💡 About Me
 
-### About me
-Me Chamo Rafael, Formado na Fatec Jales no ano de 2021 em Sistemas para Internet, trabalhando atualmente como Coordenador de Operações em uma empresa voltada a gestão publica.
+Sou formado pela **Fatec Jales** em *Sistemas para Internet (2021)* e atualmente atuo como **Coordenador de Operações** na área de tecnologia voltada à gestão pública.  
+Apaixonado por tecnologia e por resolver problemas de forma prática, comecei na área de suporte e hoje participo ativamente de implantações de sistemas, liderança de equipes e desenvolvimento de soluções em **PHP**.
 
-Tenho passagem básica pelas linguagens e templates mais conhecidos da atualidade, como por exemplo  Python, Java, C, PHP, React, Laravel. Porém o meu foco é PHP!
-Já desenvolvi alguns projetos em PHP, Porem desafios são sempre bem vindos, possuo base para conseguir me adaptar e aprender a fundo outras linguagens.
+Meu foco atual é aprimorar minhas habilidades em **Laravel**, **APIs REST**, **integrações de sistemas** e boas práticas de desenvolvimento.  
+Sou curioso, autodidata e gosto de aprender novas linguagens e frameworks sempre que o projeto exige.
 
-Possuo conhecimento satisfatório sobre redes, identificação de problemas, configurações, fluxo, arquitetura, etc. Bem como conhecimento avançado em VOIP.
+---
 
-### Conhecimentos
+### ⚙️ Tech Stack
 
-- Clouds :cloud:
+#### 💻 Desenvolvimento
+- **PHP (principal)** | Laravel | APIs REST | HTML | CSS | JavaScript  
+- Conhecimento básico em **Python**, **Java**, **React**, **Flutter**  
+- Banco de dados: **MySQL / MariaDB**  
+- Integrações via API e automação de processos
 
-   - AWS: Subir instâncias, Efetuar manutenção nessas intâncias, Acompanhar gastos, Resolver Problemas de Acessos as Instâncias. 
+#### ☁️ Cloud
+- **AWS EC2:** criação e manutenção de instâncias, controle de custos e troubleshooting  
+- **Oracle Cloud:** criação de tenancy, instâncias customizadas e controle de acesso via console
 
-   - Oracle: Subir instâncias, Efetuar manutenção nessas intâncias, Acompanhar gastos, Resolver Problemas de Acessos as Instâncias, Criar e implementar custom    images, Acesso ao Console.
-   
-- Redes :globe_with_meridians:
+#### 🌐 Redes
+- **Mikrotik:** regras básicas, redirecionamento/liberação de portas, VLANs, segmentação  
+- **Proxmox:** virtualização e configuração de ambientes Linux  
+- Diagnóstico de **latência, rotas e perda de pacotes**
 
-   - Mikrotik: Configurar Regras básicas em mikrotik como por exempo: Redirecionamento de portas, Liberação de Portas, Segmentação de Redes, Bloqueios, ETC.
-   - Acess Ponts: Configuração de Acess point.
-   - Cabeamento de rede: Confecção de cabos de rede para utilização interna.
-   - Fluxo: Conhecimento sobre fluxo de redes, Gateways, Rotas, Perda de Pacotes, Latências.
-   - Interfaces: Configuração de interfaces de redes.
- 
+#### ☎️ Telecom / Infra
+- VOIP, PABX, URA e discadores automáticos  
+- Zabbix + Grafana para monitoramento de links e servidores
 
+---
 
+### 📈 Currently Learning
+- Framework **Laravel** (foco em APIs e arquitetura limpa)  
+- **Git/GitHub workflows**  
+- **Clean Code e boas práticas PHP**
 
+---
 
+### 📫 How to reach me
+📧 **E-mail:** [rafaelcicarelli.m@hotmail.com](mailto:rafaelcicarelli.m@hotmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/rafaelcicarelli](https://www.linkedin.com/in/rafaelcicarelli)  
+🌎 **GitHub:** [github.com/rafaelcicarellimelo](https://github.com/rafaelcicarellimelo)
 
+---
 
+### 🌱 Curiosities
+- 🎯 Tenho experiência prática com **gestão de equipes técnicas e projetos**.  
+- 🧠 Sempre busco **entender o problema do usuário antes de pensar na solução**.  
+- ⚡ Gosto de criar ferramentas internas e scripts para automatizar tarefas.  
 
+---
 
-
-- 👋 Hi, I’m @rafaelcicarellimelo
-- 👀 I’m interested in evolve my skills
-- 🌱 I am currently learning more about php, improving my knowledge.
-- 💞️ I'm looking to collaborate on php projects ...
-- 📫 How to reach me -> rafaelcicarelli.m@hotmail.com | linkedin.com/in/rafaelcicarelli
-
-
-<!---
-rafaelcicarellimelo/rafaelcicarellimelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐️ *“Code is like humor — when you have to explain it, it’s bad.”*  
